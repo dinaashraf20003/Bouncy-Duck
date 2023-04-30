@@ -1,5 +1,5 @@
 # Bouncy-Duck
-# Advanced programming Unity project.
+# CC319 Advanced programming Unity project.
 The Bouncy Duck game is an adaptation of the classic bounce game, 
 where you should help Bouncy the duck to reach its home facing enemies 
 and challenges. The game design consists of our main character the duck and 
