@@ -12,7 +12,5 @@ https://user-images.githubusercontent.com/73821958/235323591-08cb9658-f5b5-4184-
 
 
 you can learn more about the game assets and software modules by reading the full documentation and user manual:
-
-[Bouncy duck Documentation.pdf](https://github.com/dinaashraf20003/Bouncy-Duck/files/11360056/Bouncy.duck.Documentation.pdf)
-
-[User Manual.pdf](https://github.com/dinaashraf20003/Bouncy-Duck/files/11360057/User.Manual.pdf)
+- [Bouncy duck Documentation](https://github.com/dinaashraf20003/Bouncy-Duck/files/11360056/Bouncy.duck.Documentation.pdf)
+- [User Manual](https://github.com/dinaashraf20003/Bouncy-Duck/files/11360057/User.Manual.pdf)
